@@ -29,3 +29,7 @@ Through this project, I aim to practice and improve my skills in the following a
 * Graceful shutdown
 * Production thinking
 I will focus on writing clean, maintainable code and will strive to create a well-designed API that is easy to use and understand.
+
+
+# Resources
+* Go Learn - [https://go.dev/learn/](https://go.dev/learn/)
