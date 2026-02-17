@@ -1,4 +1,4 @@
-.PHONY: run fmt
+.PHONY: run fmt test
 
 .PHONY: run
 run:
@@ -7,3 +7,7 @@ run:
 .PHONY: fmt
 fmt:
 	go fmt ./...
+
+.PHONY: test
+test:
+	go test ./...
